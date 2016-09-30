@@ -1,0 +1,6 @@
+.beautifyrc
+.eslintrc
+.jscsrc
+node_modules/
+.vscode/*
+typings/*
